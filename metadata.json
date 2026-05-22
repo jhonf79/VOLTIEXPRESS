@@ -1,0 +1,6 @@
+{
+  "name": "VoltiExpress - Simulador de Logística",
+  "description": "Un simulador interactivo de logística verde y mensajería eléctrica para el triángulo estratégico de Bucaramanga con métricas en tiempo real y guías de desarrollo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
